@@ -1,0 +1,69 @@
+# Visual Studio & IDE
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.vcxproj.user
+
+# Build directories
+build/
+bin/
+out/
+Release/
+Debug/
+x64/
+x86/
+
+# Compiled object files & libraries
+*.obj
+*.o
+*.lib
+*.a
+*.dll
+*.exe
+*.exp
+*.ilk
+*.pdb
+*.idb
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# Build logs and diagnostics
+*.log
+*.tlog
+*.lastbuildstate
+
+# Personal Save files & test assets
+Save/
+*.sav
+*.bin
+*.dat
+*.bak
+
+# ImGui & local config
+imgui.ini
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Scratch & temporary
+scratch/
+tmp/
+temp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
