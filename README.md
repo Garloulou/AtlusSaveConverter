@@ -7,30 +7,32 @@ Une application pour convertire les save des different jeu atlus sur pc
 ## 🎮 Jeux Supportés
 # **Importent !** Uniquement les version eu on etait testé
 - **Persona 5 Tactica** (P5T)
-  - Identifiants PS4 : `CUSA43147` (US), `CUSA43148` (EU), `CUSA35966` (JP), `CUSA43440` (Asia) 
+  - Identifiants PS4 : `CUSA43147` (US), `CUSA43148` (EU)
 
 - **Persona 5 Royal** (P5R)
-  - Identifiants PS4 : `CUSA17416` (US), `CUSA17419` (EU), `CUSA08216` (JP), `CUSA17418` (Asia)
+  - Identifiants PS4 : `CUSA17416` (US), `CUSA17419` (EU)
 
 - **Persona 5 Strikers** (P5S)
-  - Identifiants PS4 : `CUSA19641` (US), `CUSA19642` (EU), `CUSA19643` (JP), `CUSA19644` / `CUSA19645` (Asia)
-
+  - Identifiants PS4 : `CUSA19641` (US), `CUSA19642` (EU)
 - **Persona 3 Reload** (P3R)
-  - Identifiants PS4 : `CUSA43887` (US), `CUSA43888` (EU), `CUSA43885` (JP), `CUSA43886` (Asia)
+  - Identifiants PS4 : `CUSA43887` (US), `CUSA43888` (EU)
   - 
 - **Persona 4 Golden** (P4G)
-  - Identifiants PS4 : `CUSA33887` (US), `CUSA33888` (EU), `CUSA33886` (JP), `CUSA33889` (Asia)
+  - Identifiants PS4 : `CUSA33887` (US), `CUSA33888` (EU)
 
 - **Persona 3 Portable** (P3P)
-  - Identifiants PS4 : `CUSA33877` (US), `CUSA33878` (EU), `CUSA33876` (JP)
+  - Identifiants PS4 : `CUSA33877` (US), `CUSA33878` (EU)
 
 
 - **Shin Megami Tensei V: Vengeance** (SMT5V)
-  - Identifiants PS4 : `CUSA43877` (US), `CUSA43878` (EU), `CUSA43876` (JP)
+  - Identifiants PS4 : `CUSA43877` (US), `CUSA43878` (EU)
 
 
 - **Soul Hackers 2** (SH2)
-  - Identifiants PS4 : `CUSA27525` (US), `CUSA27526` (EU), `CUSA27524` (JP)
+  - Identifiants PS4 : `CUSA27525` (US), `CUSA27526` (EU)
+ 
+- **Metaphor: ReFantazio** (MF) **TODO**
+  - Identifiants PS4 : `CUSA-47037` (US), ` CUSA-47038` (EU)
 
 ---
 
